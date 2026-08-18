@@ -1,4 +1,3 @@
-# Modele-OSI
 
 # 🌐 Modèle OSI
 
