@@ -1,4 +1,5 @@
 
+
 # 🌐 Modèle OSI
 
 Le **modèle OSI (Open Systems Interconnection)** est un modèle de référence composé de **7 couches**. Il permet de comprendre comment les données sont transmises d'un appareil à un autre sur un réseau.
@@ -21,3 +22,4 @@ Lorsqu'un appareil **envoie** des données, elles traversent les couches de **7 
     1. Physique ══════════════════════════►  1. Physique
           │                                    │
           └────────────── RÉSEAU ──────────────┘
+https://buildthenet.io/
